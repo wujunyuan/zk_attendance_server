@@ -1,0 +1,34 @@
+Array
+(
+    [USER] => www
+    [HOME] => /home/www
+    [HTTP_ACCEPT] => */*
+    [HTTP_CONNECTION] => close
+    [HTTP_USER_AGENT] => iClock Proxy/1.09
+    [HTTP_HOST] => 47.107.168.210:9090
+    [PATH_INFO] => /UserServer/user
+    [PHP_ADMIN_VALUE] => open_basedir=/home/wwwroot/9090/public/:/tmp/:/proc/:/home/wwwroot/www.4pt6pi.cn/:/home/wwwroot/9090/:/home/wwwroot/default/:/home/wwwroot/intesysService
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => www.4pt6pi.cn
+    [SERVER_PORT] => 9090
+    [SERVER_ADDR] => 172.18.219.231
+    [REMOTE_PORT] => 8312
+    [REMOTE_ADDR] => 113.77.194.195
+    [SERVER_SOFTWARE] => nginx/1.14.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REQUEST_SCHEME] => http
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [DOCUMENT_ROOT] => /home/wwwroot/9090/public
+    [DOCUMENT_URI] => /index.php
+    [REQUEST_URI] => /UserServer/user?action=getserver&sn=A4EQ182560059
+    [SCRIPT_NAME] => /index.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => 
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => s=/UserServer/user&action=getserver&sn=A4EQ182560059
+    [SCRIPT_FILENAME] => /home/wwwroot/9090/public/index.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => 
+    [REQUEST_TIME_FLOAT] => 1565063547.8851
+    [REQUEST_TIME] => 1565063547
+)
